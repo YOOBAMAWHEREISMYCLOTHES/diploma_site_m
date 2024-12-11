@@ -23,13 +23,9 @@ const Footer = () => {
         <div className="footer-icons-container">
             <img src={instagram_icon} alt="" />
         </div>
-      </div>
-      <div className="footer-social-icons">
         <div className="footer-icons-container">
             <img src={pintester_icon} alt="" />
         </div>
-      </div>
-      <div className="footer-social-icons">
         <div className="footer-icons-container">
             <img src={whatsapp_icon} alt="" />
         </div>
